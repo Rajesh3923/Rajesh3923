@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/p44928340rajesh" target="blank"><img src="https://img.shields.io/twitter/follow/p44928340rajesh?logo=twitter&style=for-the-badge" alt="p44928340rajesh" /></a> </p>
 
-- 🔭 I’m currently working on **Object Detection using YOLO**
+- 🔭 I’m currently working on **WebSocketTechnology**
 
 - 🌱 I’m currently learning **ReactJS**
 
