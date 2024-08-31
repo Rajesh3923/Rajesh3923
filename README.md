@@ -17,9 +17,7 @@
 
 - 📫 How to reach me **pasupuletirajesh460@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EtGc6BF-DjV22z-6KbQwT5azQfg77Dg9/view?usp=sharing](https://drive.google.com/file/d/1EtGc6BF-DjV22z-6KbQwT5azQfg77Dg9/view?usp=sharing)
-
-- ⚡ Fun fact **Passionated Dev...**
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1aScCdhYcAcz5h4hU2CtgtyFddHGjFAtZ?usp=sharing](https://drive.google.com/drive/folders/1aScCdhYcAcz5h4hU2CtgtyFddHGjFAtZ?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
